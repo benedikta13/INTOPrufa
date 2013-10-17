@@ -31,6 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Benedikt Valur Ãrnason, bendikta13"<<endl; //Ã¾etta er breytingin sem Ã©g gerÃ°i
 	int val;
 	do
 	{
